@@ -65,6 +65,32 @@ You can connect your project to the **Blynk app** available for both **Android**
 
 ---
 
+### Connecting to Blynk.io
+- Open [Blynk.io](https://blynk.io/) in Browser
+- Create a new account **(Free)**
+- In side menu click **Developer Zone**
+- In right Top Conter Click **New Template**
+- Give the name of the porject
+- Select Hardware to **ESP32**
+- Select Connecting Type **Wifi**
+- Description (Optional)
+- In Firmware configuration you will get **Template ID** (Ex: #define BLYNK_TEMPLATE_ID "TMPL3S77NZMdJ")
+- In side menu go to **Devices**
+- In right Top Conter Click **New Devices**
+- Choose **From Template**
+- In Template choose select your project
+- Give the name of the Devices (Editable)
+- Now you will get Example: 
+  |---------------------------------------------------------------------|
+  |#define BLYNK_TEMPLATE_ID "TMPL3S77NZMdJ"                   |
+  |#define BLYNK_TEMPLATE_NAME "IOT Intruder Alarm System"     |
+  |#define BLYNK_AUTH_TOKEN "ZA2zuJX_Qn18kP0U0rNjxmOE3Yb_k6nm" |
+  - (Replace the code in **IOT-Based Alarm System.ino** in line 4-6)
+- Now click Edit Dashboard
+  
+ 
+---
+
 ### 💻 Software Steps
 
 #### 1. Install Arduino IDE
@@ -76,6 +102,7 @@ Download and install the [Arduino IDE](https://www.arduino.cc/en/software) to pr
 ---
 
 #### Apps
-Blynk Android App Link: [Download from Google Play Store](https://play.google.com/store/apps/details?id=cloud.blynk) 
-
-Blynk IOS App Link: [Download from Apple App Store](https://apps.apple.com/us/app/blynk-iot/id1551718627) 
+|App | App Link |
+|-----------------------|--------------------------------------|
+|Blynk Android App Link: |[Download from Google Play Store](https://play.google.com/store/apps/details?id=cloud.blynk)| 
+|Blynk IOS App Link: |[Download from Apple App Store](https://apps.apple.com/us/app/blynk-iot/id1551718627)|
