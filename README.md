@@ -87,8 +87,14 @@ You can connect your project to the **Blynk app** available for both **Android**
   |#define BLYNK_AUTH_TOKEN "ZA2zuJX_Qn18kP0U0rNjxmOE3Yb_k6nm" |
   - (Replace the code in **IOT-Based Alarm System.ino** in line 4-6)
 - Now click Edit Dashboard
-  
+- Now go to **Developer Zone** -> Select your project -> Select **Datastreams** -> Click New Datastreams -> Select Virtual Pin
+  ![Project Screenshot](https://github.com/kevin030-anto/IOT-Intruder-Alarm-System/blob/main/Images/Blynk.io/First%20Step%20-%20Datastreams/1%20Datastreams.png)
+  - Go to github file location: ../IOT-Intruder-Alarm-System/Images/Blynk.io/First Step - Datastreams (Sample Imager for Datastreams)
  
+- After Finishing Datastreams now go to **Developer Zone** -> Select your project -> Select **Web Dashboard** -> use **Widget Box** drag and drop widget from the given screenshot
+  ![Project Screenshot](https://github.com/kevin030-anto/IOT-Intruder-Alarm-System/blob/main/Images/Blynk.io/Second%20Step%20-%20Web%20Dashboard/Blynk.png)
+  - Go to github file location: ../IOT-Intruder-Alarm-System/Images/Blynk.io/Second Step - Web Dashboard (Sample Imager for Web Dashboard)
+
 ---
 
 ### 💻 Software Steps
