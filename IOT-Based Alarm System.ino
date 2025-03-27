@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
 
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL3dC3XMg6b" //Enter template ID (that links your code to a specific project)
+#define BLYNK_TEMPLATE_ID "" //Enter template ID (that links your code to a specific project)
 #define BLYNK_TEMPLATE_NAME "Intruder Alarm System" // Project Name (Editable)
 #define BLYNK_AUTH_TOKEN "" //Enter your Blynk Auth Token (the authentication token that connects your physical device)
 
