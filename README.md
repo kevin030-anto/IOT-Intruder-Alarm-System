@@ -112,3 +112,9 @@ Download and install the [Arduino IDE](https://www.arduino.cc/en/software) to pr
 |-----------------------|--------------------------------------|
 |Blynk Android App Link: |[Download from Google Play Store](https://play.google.com/store/apps/details?id=cloud.blynk)| 
 |Blynk IOS App Link: |[Download from Apple App Store](https://apps.apple.com/us/app/blynk-iot/id1551718627)|
+
+---
+
+### 💡 Author
+
+GitHub: [@kevin030-anto](https://github.com/kevin030-anto)
